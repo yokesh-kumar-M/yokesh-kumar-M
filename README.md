@@ -1,140 +1,120 @@
-# \# Hi, I'm Yokesh Kumar  — Aspiring Cybersecurity Engineer 
+\# Hello World! I'm Yokesh Kumar
 
-# 
 
-# I’m focused on building a strong, practical security skill set while shipping real projects.  
 
-# Current interests: Red-team fundamentals, offensive security labs, secure backend/Django, and data analysis for security insights.
+\*\*Cybersecurity Enthusiast\*\* | \*\*Django Developer\*\* | \*\*Problem Solver\*\*  
 
-# 
 
-# \-  Certified: ISC2 \*\*Certified in Cybersecurity (CC)\*\*
 
-# \-  Path: CEH → OSCP (long-term)
+---
 
-# \-  Recently: Django “PIIcasso” \& “Crypto Stock” projects
 
-# 
 
-# 
+\## 🧠 About Me
 
-# ---
+\- Passionate about \*\*cybersecurity\*\*, focusing on ethical hacking, penetration testing, and secure application design.  
 
-# 
+\- Developer of \*\*PIIcasso\*\*, a Django-based privacy tool to detect and anonymize Personally Identifiable Information (PII).  
 
-# \## What I’m working on
+\- Skilled in \*\*Python\*\* scripting and automation to enhance security workflows.  
 
-# \- Practicing TTPs on beginner → intermediate boxes \& note-taking like a lab diary
+\- Interested in creating tools that solve real-world problems while keeping \*\*security\*\* at the core.  
 
-# \- Writing brief explainers for juniors on TLS, networking, and SIEM basics
+\- Always learning, building, and improving.  
 
-# \- Hardening a Django app (auth, sessions, CSP, secure cookies)
 
 
+---
 
-# 
 
-# ---
 
-# 
+\## Tech Stack
 
-# \## Tech \& Tools
 
-# \*\*Languages:\*\* Python, Java, C, Bash  
 
-# \*\*Security:\*\* Kali Linux, Burp Suite, nmap, Wireshark  
+!\[Cybersecurity](https://img.shields.io/badge/-Cybersecurity-red?style=for-the-badge\&logo=hackthebox)
 
-# \*\*Web/Backend:\*\* Django, REST APIs, SQLite/PostgreSQL  
+!\[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
-# \*\*Data/Viz:\*\* R, Tableau  
+!\[Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 
-# \*\*Platforms:\*\* Linux, Git \& GitHub
+!\[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 
-# 
+!\[CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-# ---
+!\[GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
 
-# 
 
-# \## Certifications
 
-# \- ISC2 \*\*Certified in Cybersecurity (CC)\*\*
+---
 
-# \- (Planned) EC-Council \*\*CEH\*\*
 
-# \- (Goal) \*\*OSCP\*\*
 
-# 
+\## Featured Projects
 
-# ---
 
-# 
 
-# \## Projects (selected)
+| Project | Description |
 
-# \- \*\*PIIcasso (Django)\*\* — Dynamic Wordlist Generator for Penetration Tester
+|---------|-------------|
 
-#   Repo: https://github.com/yokesh-kumar-M/Online-compiler
+| \*\*PIIcasso\*\* | Django-based privacy tool for detecting and anonymizing sensitive personal data. |
 
-# \- \*\*SprayMaster (Django)\*\* — Password Cracking Tool for Bruteforcing
+| \*\*SprayMaster\*\* | Python brute-force simulation tool for cybersecurity learning \& testing. |
 
-#   Repo: https://github.com/yokesh-kumar-M/online-compiler
+| \*\*StockManagement\*\* | Secure Django-based inventory management system. |
 
-# \- \*\*Stock/Crypto Management (Django)\*\* — Login + buy/sell flows + dynamic pricing UI  
+| \*\*Portfolio Website\*\* | A personal portfolio showcasing secure web design practices. |
 
-# &nbsp; Repo: https://github.com/yokesh-kumar-M/StockManagement
 
-# \- \*\*Online Compiler (Django-only)\*\* — Lightweight web IDE with code execution sandboxes
 
-#   Repo: https://github.com/yokesh-kumar-M/online-compiler
+---
 
 
 
-# 
+\## GitHub Stats \& Activity
 
-# > Don’t see them? I might be tidying repos—check my pins below.
 
-# 
 
-# ---
+!\[Yokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yokesh-kumar-M\&show\_icons=true\&theme=radical)  
 
-# 
+!\[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yokesh-kumar-M\&layout=compact\&theme=radical)  
 
-# \## GitHub Snapshot
+!\[GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=yokesh-kumar-M\&theme=dark\&hide\_border=false)  
 
-# !\[GitHub Stats](https://github-readme-stats.vercel.app/api?username=yokesh-kumar\&show\_icons=true\&hide\_rank=false)
 
-# !\[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yokesh-kumar\&layout=compact)
 
-# 
+---
 
-# ---
 
-# 
 
-# \## Connect
+\## Profile Views
 
-# \- Email: \*\*yokeshkumar1704@gmail.com\*\*
 
-# \- LinkedIn: \*\*https://linkedin.com/in/yokesh1704\*\*
 
-# 
+!\[Profile Views](https://komarev.com/ghpvc/?username=yokesh-kumar-M\&color=blue\&style=flat-square)
 
-# > I’m always open to feedback on projects, lab notes, or study plans.
 
-# 
 
-# ---
+---
 
-# 
 
-# \### Notes
 
-# \- I keep things simple and practical—expect minimal fluff and reproducible steps.  
+\## Connect with Me
 
-# \- Contributions, issues, and PRs are welcome.
 
 
+\[!\[GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)](https://github.com/yokesh-kumar-M)  
 
-# 
+\[!\[Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your-email@example.com)  
+
+
+
+---
+
+
+
+> “Turning vulnerabilities into strength — one secure line of code at a time.”
+
+
 
