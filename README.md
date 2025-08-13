@@ -10,7 +10,7 @@
 
 
 
-\## 🧠 About Me
+\## About Me
 
 \- Passionate about \*\*cybersecurity\*\*, focusing on ethical hacking, penetration testing, and secure application design.  
 
