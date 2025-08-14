@@ -39,11 +39,11 @@ I believe that every line of code should serve both functionality and **security
 
 ## Tech Toolbox
 
-**Languages:** Python, HTML, CSS
-**Frameworks:** Django
-**Security:** Ethical hacking, penetration testing, PII data protection
-**Networking:** Network protocols, subnetting, VLANs, firewall configuration
-**Version Control:** Git, GitHub
+* **Languages:** Python, HTML, CSS
+* **Frameworks:** Django
+* **Security:** Ethical hacking, penetration testing, PII data protection
+* **Networking:** Network protocols, subnetting, VLANs, firewall configuration
+* **Version Control:** Git, GitHub
 
 ---
 
