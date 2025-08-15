@@ -4,7 +4,7 @@
 
 ---
 
-## Featured Projects 🎯
+## Featured Projects 
 
 ### PIIcasso
 
