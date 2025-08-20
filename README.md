@@ -82,7 +82,7 @@ I believe that every line of code should serve both functionality and **security
 
 ## Connect with Me
 
-📧 [Email Me](yokeshkumar1704@gmail.com)
+📧 [Email Me](mailto:yokeshkumar1704@gmail.com)
 💻 [GitHub Profile](https://github.com/yokesh-kumar-M)
 
 ---
