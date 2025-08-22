@@ -29,7 +29,7 @@ I build **security-first applications** and tools aimed at safeguarding data and
 My expertise revolves around:
 
 * **Cybersecurity** (network defense, penetration testing, ethical hacking)
-* **Networking** (OSI Model, TCP/IP, routing, switching, firewalls, VPNs)
+* **Networking** (OSI Model, TCP/IP, routing, switching, firewalls, VPNs, IDS/IPS)
 * **Python** scripting for automation
 * **Django** web applications (security-focused design)
 
