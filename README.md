@@ -8,7 +8,7 @@
 
 ### PIIcasso
 
-Privacy-focused Django application that detects and anonymizes Personally Identifiable Information (PII)
+Privacy-focused Django application that detects and anonymizes Personally Identifiable Information (PII).
 🔗 [View Project](https://github.com/yokesh-kumar-M/PIIcasso)
 
 ### SprayMaster
