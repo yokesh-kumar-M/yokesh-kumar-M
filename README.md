@@ -58,7 +58,7 @@ I believe that every line of code should serve both functionality and **security
 ## GitHub Activity
 
 <p align="center">
-img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yokesh-kumar-M&show_icons=true&bg_color=000000&title_color=E50914&text_color=FFFFFF&icon_color=E50914&v=1"height="160"
+img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yokesh-kumar-M&show_icons=true&bg_color=000000&title_color=E50914&text_color=FFFFFF&icon_color=E50914&v=1"height="160">
  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yokesh-kumar-M&layout=compact&bg_color=000000&title_color=E50914&text_color=FFFFFF&v=1" height="160">
 </p>
 
