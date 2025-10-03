@@ -1,65 +1,65 @@
-# Yokesh Kumar M
-
-**Cybersecurity Enthusiast | Django Developer | Problem Solver**
-
----
-
-## Featured Projects 
-
-### PIIcasso
-
-Privacy-focused Django application that detects and anonymizes Personally Identifiable Information (PII).
-🔗 [View Project](https://github.com/yokesh-kumar-M/PIIcasso)
-
-### SprayMaster
-
-Python brute-force simulation tool for cybersecurity learning & testing.
-🔗 [View Project](https://github.com/yokesh-kumar-M/SprayMaster)
-
-### StockManagement
-
-Secure Django-based inventory system with authentication and data integrity.
-🔗 [View Project](https://github.com/yokesh-kumar-M/stockmanagement)
+<h1 align="center">Yokesh Kumar M</h1>
+<h3 align="center">Cybersecurity • Secure Software Engineering • Django Development</h3>
 
 ---
 
-## About Me
+## Profile
 
-I build **security-first applications** and tools aimed at safeguarding data and improving software resilience.
-My expertise revolves around:
+I build security-first applications and automation tools with a focus on data protection, privacy, and network defense. My approach blends practical cybersecurity with resilient backend engineering.
 
-* **Cybersecurity** (network defense, penetration testing, ethical hacking)
-* **Networking** (OSI Model, TCP/IP, routing, switching, firewalls, VPNs, IDS/IPS)
-* **Python** scripting for automation
-* **Django** web applications (security-focused design)
-
-I believe that every line of code should serve both functionality and **security**.
+Key domains:
+- Ethical hacking and penetration testing  
+- Secure Django development  
+- Network defense and protocol analysis  
+- Python scripting for offensive and defensive use cases
 
 ---
 
-## Tech Toolbox
+## Projects
 
-* **Languages:** Python, java, Bash, HTML, CSS
-* **Frameworks:** Django
-* **Security:** Ethical hacking, penetration testing, Red Teaming, PII data protection
-* **Networking:** Network protocols, subnetting, VLANs, firewall configuration, IDS & IPS
-* **Version Control:** Git, GitHub
+### PIIcasso  
+Django application that detects and anonymizes personally identifiable information (PII).  
+Repository: https://github.com/yokesh-kumar-M/PIIcasso
+
+### SprayMaster  
+Python-based brute-force simulation tool for training and testing in cybersecurity environments.  
+Repository: https://github.com/yokesh-kumar-M/SprayMaster
+
+### StockManagement  
+Django inventory system with authentication, authorization, and integrity controls.  
+Repository: https://github.com/yokesh-kumar-M/stockmanagement
+
+---
+
+## Technical Scope
+
+**Languages**  
+Python, Java, Bash, HTML, CSS
+
+**Frameworks**  
+Django
+
+**Security and Networking**  
+Penetration testing, red team methodologies, PII protection, TCP/IP, VLANs, firewalls, IDS/IPS, VPNs
+
+**Tools and Platforms**  
+Git, GitHub
 
 ---
 
 ## Certifications
 
-* **ISC2 Certified in Cybersecurity (CC)** — *Holder - since April 2025*
-* **Certified Ethical Hacker (CEH)** — *Planned*
-* **Offensive Security Certified Professional (OSCP)** — *Long-term goal*
+ISC2 Certified in Cybersecurity (CC), April 2025  
+CEH — Planned  
+OSCP — Long-term objective
 
 ---
 
-## GitHub Activity
+## GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yokesh-kumar-M&show_icons=true&bg_color=000000&title_color=E50914&text_color=FFFFFF&icon_color=E50914&v=1" height="160">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yokesh-kumar-M&layout=compact&bg_color=000000&title_color=E50914&text_color=FFFFFF&v=1" height="160">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yokesh-kumar-M&show_icons=true&bg_color=000000&title_color=E50914&text_color=FFFFFF&icon_color=E50914&hide_border=true" height="160" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yokesh-kumar-M&layout=compact&bg_color=000000&title_color=E50914&text_color=FFFFFF&hide_border=true" height="160" />
 </p>
 
 ---
@@ -72,19 +72,11 @@ I believe that every line of code should serve both functionality and **security
 
 ---
 
-## Profile Views
+## Contact
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yokesh-kumar-M&color=E50914&style=for-the-badge">
-</p>
-
----
-
-## Connect with Me
-
-📧 [Email Me](mailto:yokeshkumar1704@gmail.com)
-💻 [GitHub Profile](https://github.com/yokesh-kumar-M)
+Email: yokeshkumar1704@gmail.com  
+GitHub: https://github.com/yokesh-kumar-M
 
 ---
 
-> **"Turning vulnerabilities into strength — one secure line of code at a time."**
+<i>Turning vulnerabilities into strength — one secure line of code at a time.</i>
