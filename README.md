@@ -75,7 +75,7 @@ OSCP — Long-term objective
 ## Contact
 
 Email: yokeshkumar1704@gmail.com  
-Leetcode: https://leetcode.com/Yokesh-Kumar-M  
+Leetcode: https://leetcode.com/Yokesh_Kumar_M  
 GitHub: https://github.com/yokesh-kumar-M  
 LinkedIn: https://linkedin.com/in/yokeshkumarm
 
