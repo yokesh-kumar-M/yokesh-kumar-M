@@ -1,5 +1,5 @@
 <h1 align="center">Yokesh Kumar M</h1>
-<h3 align="center">Cybersecurity • Secure Software Engineering • Django Development</h3>
+<h3 align="center">Cybersecurity • Tech Enthusiast • Django Development</h3>
 
 ---
 
@@ -75,7 +75,8 @@ OSCP — Long-term objective
 ## Contact
 
 Email: yokeshkumar1704@gmail.com  
-GitHub: https://github.com/yokesh-kumar-M
+GitHub: https://github.com/yokesh-kumar-M  
+LinkedIn: https://linkedin.com/in/yokeshkumarm
 
 ---
 
