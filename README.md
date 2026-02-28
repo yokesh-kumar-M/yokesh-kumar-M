@@ -130,10 +130,6 @@ Continuous upskilling in live simulated environments is critical to staying ahea
 
 <h2 align="center">GITHUB ACTIVITY INTELLIGENCE</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yokesh-kumar-M&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
 ### Contribution Overview Heatmap
 
 <p align="center">
