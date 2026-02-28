@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=80&lines=Yokesh+Kumar+M;Cybersecurity+Analyst;Backend+Engineer;Certified+Ethical+Hacker" alt="Typing effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1000&color=00FFFF;8A2BE2;FF1493;39FF14&center=true&vCenter=true&width=800&height=80&lines=Yokesh+Kumar+M;Cybersecurity+Analyst;Backend+Engineer;Certified+Ethical+Hacker" alt="Typing effect" />
 </p>
 
 <p align="center">
@@ -26,17 +26,23 @@ I architect secure software infrastructures, analyze vulnerabilities, and build 
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <h3>Certified in Cybersecurity (CC)</h3>
+    <td align="center" width="33%">
+      <h3>Certified in<br>Cybersecurity (CC)</h3>
       <p><b>ISC2</b></p>
       <p><i>Achieved: April 12th, 2025</i></p>
       <img src="https://img.shields.io/badge/Status-Certified-00FFFF?style=for-the-badge" alt="CC Certified" />
     </td>
-    <td align="center" width="50%">
-      <h3>Certified Ethical Hacker (CEH)</h3>
+    <td align="center" width="33%">
+      <h3>Certified Ethical<br>Hacker (CEH)</h3>
       <p><b>EC-Council</b></p>
-      <p><i>Achieved: February 26th, 2026</i></p>
+      <p><i>Achieved: Feb 26th, 2026</i></p>
        <img src="https://img.shields.io/badge/Status-Certified-8A2BE2?style=for-the-badge" alt="CEH Certified" />
+    </td>
+    <td align="center" width="33%">
+      <h3>OffSec Certified<br>Professional (OSCP)</h3>
+      <p><b>OffSec</b></p>
+      <p><i>Status: Planned</i></p>
+       <img src="https://img.shields.io/badge/Status-Planned-FF1493?style=for-the-badge" alt="OSCP Planned" />
     </td>
   </tr>
 </table>
