@@ -1,101 +1,165 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=E50914&center=true&vCenter=true&width=600&height=60&lines=Yokesh+Kumar+M;Cybersecurity+Specialist;Django+Developer" alt="Yokesh Kumar M" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=80&lines=Yokesh+Kumar+M;Cybersecurity+Analyst;Backend+Engineer;Certified+Ethical+Hacker" alt="Typing effect" />
 </p>
 
 <p align="center">
-  <i>Turning vulnerabilities into strength — one secure line of code at a time.</i>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/yokeshkumarm"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=E50914" alt="LinkedIn" /></a>
-  <a href="mailto:yokeshkumar1704@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=E50914" alt="Email" /></a>
-  <a href="https://leetcode.com/Yokesh_Kumar_M"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=E50914" alt="LeetCode" /></a>
-  <a href="https://github.com/yokesh-kumar-M"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=E50914" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/yokeshkumarm"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF" alt="LinkedIn" /></a>
+  <a href="mailto:yokeshkumar1704@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8A2BE2" alt="Email" /></a>
+  <a href="https://leetcode.com/Yokesh_Kumar_M"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=00FFFF" alt="LeetCode" /></a>
+  <a href="https://github.com/yokesh-kumar-M"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=8A2BE2" alt="GitHub" /></a>
 </p>
 
 ---
 
-## Executive Summary
+<h2 align="center">EXECUTIVE PORTFOLIO</h2>
 
-I build security-first applications and automation tools with a strict focus on data protection, privacy, and network defense. By bridging the gap between practical cybersecurity methodologies and resilient backend engineering, I deliver software architecture configured for high-stakes environments.
+I architect secure software infrastructures, analyze vulnerabilities, and build automation frameworks that bridge the gap between rigorous cybersecurity methodologies and modern backend engineering. My mission is to out-engineer threats before they materialize.
 
-**Strategic Focus Areas:**
-- **Offensive Security** – Ethical hacking, penetration testing, and red team methodologies.
-- **Defensive Engineering** – Secure Django framework deployment and PII protection mechanisms.
-- **Infrastructure** – Network defense, protocol analysis, firewall configuration, and VPN tunneling.
-- **Automation** – Advanced Python scripting for operational security and incident response.
-
----
-
-## Technical Arsenal
-
-**Development & Protocols**
-<p>
-  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=E50914" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=E50914" alt="Django" />
-  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=java&logoColor=E50914" alt="Java" />
-  <img src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnu-bash&logoColor=E50914" alt="Bash" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=E50914" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=E50914" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=E50914" alt="Git" />
-</p>
-
-**Security Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/Penetration_Testing-000000?style=flat-square&logoColor=E50914" alt="Penetration Testing" />
-  <img src="https://img.shields.io/badge/Red_Teaming-000000?style=flat-square&logoColor=E50914" alt="Red Team" />
-  <img src="https://img.shields.io/badge/Data_Anonymization-000000?style=flat-square&logoColor=E50914" alt="PII Protection" />
-  <img src="https://img.shields.io/badge/TCP%2FIP-000000?style=flat-square&logoColor=E50914" alt="TCP/IP" />
-  <img src="https://img.shields.io/badge/Firewalls-000000?style=flat-square&logoColor=E50914" alt="Firewalls" />
-  <img src="https://img.shields.io/badge/IDS%2FIPS-000000?style=flat-square&logoColor=E50914" alt="IDS/IPS" />
-  <img src="https://img.shields.io/badge/VPN-000000?style=flat-square&logoColor=E50914" alt="VPN" />
-</p>
+### Primary Disciplines
+- **Defensive Engineering**: Fortifying architectures with strong cryptography, privacy-preserving layers (PII protection workflows), and highly resilient Django backends.
+- **Offensive Security**: Simulating real-world attacks, penetration testing, crafting brute-force models, and reverse-engineering network protocols to find critical flaws.
+- **Infrastructure Auditing**: Deep packet inspection, IDS/IPS tuning, secure VPN tunneling, and firewall rule optimizations.
 
 ---
 
-## Highlighted Projects
+<h2 align="center">PROFESSIONAL CERTIFICATIONS</h2>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/yokesh-kumar-M/PIIcasso">PIIcasso</a></h3>
-      <p>A sophisticated Django-based service engineered to automatically detect and anonymize Personally Identifiable Information (PII) within dynamic/untrusted data streams.</p>
-      <b>Stack:</b> Python, Django, Data Parsing
+    <td align="center" width="50%">
+      <h3>Certified in Cybersecurity (CC)</h3>
+      <p><b>ISC2</b></p>
+      <p><i>Achieved: April 12th, 2025</i></p>
+      <img src="https://img.shields.io/badge/Status-Certified-00FFFF?style=for-the-badge" alt="CC Certified" />
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/yokesh-kumar-M/SprayMaster">SprayMaster</a></h3>
-      <p>Python brute-force simulation toolkit designed precisely for evaluating password policies and account lockout mechanisms across various testing environments.</p>
-      <b>Stack:</b> Python, Authorization Protocols
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/yokesh-kumar-M/stockmanagement">Stock Management</a></h3>
-      <p>Enterprise-grade inventory management backend emphasizing robust access controls, authentication flow, and uncompromised database transaction integrity.</p>
-      <b>Stack:</b> Python, Django, Relational Databases
-    </td>
-    <td width="50%" valign="top">
-      <!-- Future Project Placeholder -->
+    <td align="center" width="50%">
+      <h3>Certified Ethical Hacker (CEH)</h3>
+      <p><b>EC-Council</b></p>
+      <p><i>Achieved: February 26th, 2026</i></p>
+       <img src="https://img.shields.io/badge/Status-Certified-8A2BE2?style=for-the-badge" alt="CEH Certified" />
     </td>
   </tr>
 </table>
 
 ---
 
-## Certifications & Roadmap
+<h2 align="center">TECHNICAL MATRIX & ARSENAL</h2>
 
-* **ISC2 Certified in Cybersecurity (CC)** — *Pending (Expected April 2025)*
-* **Certified Ethical Hacker (CEH)** — *In Progress*
-* **Offensive Security Certified Professional (OSCP)** — *Long-term Objective*
+### Core Programming Capabilities
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFFF" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=8A2BE2" alt="Bash" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=00FFFF" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=8A2BE2" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FFFF" alt="CSS" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=8A2BE2" alt="Git" />
+</p>
+
+### Frameworks & Backend Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=00FFFF" alt="Django" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=8A2BE2" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/RESTful_APIs-000000?style=for-the-badge&logoColor=00FFFF" alt="APIs" />
+</p>
+
+### Cyber Security Infrastructure
+<p align="center">
+  <img src="https://img.shields.io/badge/Penetration_Testing-000000?style=for-the-badge&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Red_Teaming-000000?style=for-the-badge&logoColor=8A2BE2" />
+  <img src="https://img.shields.io/badge/Data_Privacy_%26_PII-000000?style=for-the-badge&logoColor=00FFFF" />
+  <br>
+  <img src="https://img.shields.io/badge/TCP%2FIP_Networking-000000?style=for-the-badge&logoColor=8A2BE2" />
+  <img src="https://img.shields.io/badge/IDS%2FIPS_Systems-000000?style=for-the-badge&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/VLANs_%26_VPNs-000000?style=for-the-badge&logoColor=8A2BE2" />
+</p>
 
 ---
 
-## Activity Metrics
+<h2 align="center">ENGINEERING & DEVELOPMENT SHOWCASE</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yokesh-kumar-M/Piicasso" style="color:#00FFFF; text-decoration:none;">Piicasso - Data Privacy Engine</a></h3>
+      <p>A sophisticated data anonymization engine built with Django. Designed to automatically intercept, detect, and redact Personally Identifiable Information (PII) to maintain strict data compliance in untrusted application streams.</p>
+      <b>Frameworks:</b> Python, Django, RegEx
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yokesh-kumar-M/SprayMaster" style="color:#8A2BE2; text-decoration:none;">SprayMaster - Offensive Toolkit</a></h3>
+      <p>An offensive Python toolkit simulating advanced brute-force and password spraying attacks against FTP servers. Crucial for testing lockout mechanisms and evaluating credential security policies during corporate audits.</p>
+      <b>Frameworks:</b> Python, Socket Programming
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yokesh-kumar-M/My_remote_shell" style="color:#8A2BE2; text-decoration:none;">My Remote Shell</a></h3>
+      <p>A custom reverse shell handler and remote execution utility crafted to maintain persistent connections during authorized red-team engagements and lateral movement protocol testing.</p>
+      <b>Frameworks:</b> Python, Networking
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yokesh-kumar-M/StockManagement" style="color:#00FFFF; text-decoration:none;">Secure Stock Manager</a></h3>
+      <p>Enterprise inventory tracking system featuring hardened authentication flows, customized Role-Based Access Control (RBAC), and rigorous database transaction integrity protocols.</p>
+      <b>Frameworks:</b> Django, Relational DBs
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yokesh-kumar-M/Autocorrector" style="color:#00FFFF; text-decoration:none;">Algorithmic Autocorrector</a></h3>
+      <p>A highly efficient algorithmic implementation of spell-checking and string similarity tracking. Evaluates edit distances mapping directly to fundamental computer science efficiency concepts.</p>
+      <b>Frameworks:</b> Python, CS Algorithms
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/yokesh-kumar-M/Log_parsing" style="color:#8A2BE2; text-decoration:none;">Log Forensics Parser</a></h3>
+      <p>A script-based forensic utility parsing massive server log datasets to identify anomalous traffic behaviors, error spikes, and potential reconnaissance indicators from external threat actors.</p>
+      <b>Frameworks:</b> Bash, Python
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">CYBERSECURITY LABS & CTF</h2>
+
+Continuous upskilling in live simulated environments is critical to staying ahead of threat actors. Feel free to explore my dedicated writeups and practice methodologies:
+
+* **[HackTheBox (HTB) Archives](https://github.com/yokesh-kumar-M/HackTheBox)** – Heavily documented walk-throughs of compromised machines, focusing precisely on privilege escalation vectors and initial footholds.
+* **[HackViser Documentation](https://github.com/yokesh-kumar-M/HackViser)** – Comprehensive personal write-ups demonstrating techniques for bypassing access controls and exploiting severe system misconfigurations.
+* **[LeetCode Archive](https://github.com/yokesh-kumar-M/Leetcode)** – Continuously refining algorithmic efficiency and problem-solving velocity to craft highly performant automation tools.
+
+---
+
+<h2 align="center">GITHUB ACTIVITY INTELLIGENCE</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yokesh-kumar-M&show_icons=true&bg_color=000000&title_color=E50914&text_color=FFFFFF&icon_color=E50914&hide_border=true&border_radius=0" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yokesh-kumar-M&layout=compact&bg_color=000000&title_color=E50914&text_color=FFFFFF&hide_border=true&border_radius=0" height="150" alt="Top Languages" />
-  <br/>
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=yokesh-kumar-M&theme=dark&background=000000&stroke=E50914&ring=E50914&fire=E50914&currStreakLabel=E50914&hide_border=true&border_radius=0" height="150" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yokesh-kumar-M&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
+
+### Contribution Overview Heatmap
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yokesh-kumar-M&bg_color=000000&color=00FFFF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+
+### Key Performance Indicators (KPIs)
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yokesh-kumar-M&show_icons=true&bg_color=000000&title_color=00FFFF&text_color=FFFFFF&icon_color=8A2BE2&hide_border=true&border_radius=0" height="200" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yokesh-kumar-M&layout=compact&bg_color=000000&title_color=8A2BE2&text_color=FFFFFF&hide_border=true&border_radius=0" height="200" alt="Top Languages" />
+</p>
+
+### Daily Commit Consistency
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=yokesh-kumar-M&theme=dark&background=000000&stroke=00FFFF&ring=8A2BE2&fire=00FFFF&currStreakLabel=8A2BE2&sideLabels=8A2BE2&hide_border=true&border_radius=0" alt="GitHub Streak" />
+</p>
+
+---
+
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/System_Status-Online-00FFFF?style=for-the-badge" alt="Status" />
+  <br>
+  <br>
+  <i>"I don't just find the vulnerabilities; I architect the impenetrable solutions."</i>
+  <br>
+</div>
