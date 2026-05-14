@@ -1,3 +1,5 @@
+<a href="https://gitroll.io/profile/unT4RX2EckXXxNwnoqwSVm86R1KN2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/unT4RX2EckXXxNwnoqwSVm86R1KN2?theme=midnight" alt="GitRoll Profile Badge"/></a>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=00FFFF%3BFF1493%3B39FF14%3BFFD700&width=800&height=80&lines=Yokesh+Kumar+M;Cybersecurity+Analyst;Backend+Engineer;Certified+Ethical+Hacker" alt="Typing effect" />
 
 <p align="left">
