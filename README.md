@@ -44,23 +44,35 @@ B.Tech Computer Science student and Security Analyst Intern at **Dezprox**, work
 
 ---
 
-## Activity
+## Analytics
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yokesh-kumar-M/yokesh-kumar-M/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yokesh-kumar-M/yokesh-kumar-M/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution graph" src="https://raw.githubusercontent.com/yokesh-kumar-M/yokesh-kumar-M/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yokesh-kumar-M&theme=github-compact&hide_border=true&area=true&radius=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yokesh-kumar-M&theme=github&hide_border=true&area=true&radius=4" />
+  <img alt="Contribution activity over time" src="https://github-readme-activity-graph.vercel.app/graph?username=yokesh-kumar-M&theme=github-compact&hide_border=true&area=true&radius=4" />
 </picture>
 
-<p>
-  <a href="https://github.com/yokesh-kumar-M">
-    <img height="160" alt="GitHub stats"
-      src="https://github-readme-stats.vercel.app/api?username=yokesh-kumar-M&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-  </a>
-  <a href="https://github.com/yokesh-kumar-M">
-    <img height="160" alt="Top languages"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yokesh-kumar-M&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" />
-  </a>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yokesh-kumar-M&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yokesh-kumar-M&theme=default" />
+    <img height="190" alt="Profile statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yokesh-kumar-M&theme=github_dark" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yokesh-kumar-M&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yokesh-kumar-M&theme=default" />
+    <img height="190" alt="Repositories per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yokesh-kumar-M&theme=github_dark" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yokesh-kumar-M&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yokesh-kumar-M&theme=default" />
+    <img height="190" alt="Languages by commit volume" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yokesh-kumar-M&theme=github_dark" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yokesh-kumar-M&theme=github_dark&utcOffset=5.5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yokesh-kumar-M&theme=default&utcOffset=5.5" />
+    <img height="190" alt="Commit time distribution (IST)" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yokesh-kumar-M&theme=github_dark&utcOffset=5.5" />
+  </picture>
 </p>
 
 ---
