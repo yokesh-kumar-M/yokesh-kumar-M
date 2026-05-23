@@ -52,28 +52,40 @@ B.Tech Computer Science student and Security Analyst Intern at **Dezprox**, work
   <img alt="Contribution activity over time" src="https://github-readme-activity-graph.vercel.app/graph?username=yokesh-kumar-M&theme=github-compact&hide_border=true&area=true&radius=4" />
 </picture>
 
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yokesh-kumar-M&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yokesh-kumar-M&theme=default" />
-    <img height="190" alt="Profile statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yokesh-kumar-M&theme=github_dark" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yokesh-kumar-M&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yokesh-kumar-M&theme=default" />
-    <img height="190" alt="Repositories per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yokesh-kumar-M&theme=github_dark" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yokesh-kumar-M&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yokesh-kumar-M&theme=default" />
-    <img height="190" alt="Languages by commit volume" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yokesh-kumar-M&theme=github_dark" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yokesh-kumar-M&theme=github_dark&utcOffset=5.5" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yokesh-kumar-M&theme=default&utcOffset=5.5" />
-    <img height="190" alt="Commit time distribution (IST)" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yokesh-kumar-M&theme=github_dark&utcOffset=5.5" />
-  </picture>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yokesh-kumar-M&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yokesh-kumar-M&theme=default" />
+        <img width="100%" alt="Profile statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yokesh-kumar-M&theme=github_dark" />
+      </picture>
+    </td>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yokesh-kumar-M&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yokesh-kumar-M&theme=default" />
+        <img width="100%" alt="Repositories per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yokesh-kumar-M&theme=github_dark" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yokesh-kumar-M&theme=github_dark" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yokesh-kumar-M&theme=default" />
+        <img width="100%" alt="Languages by commit volume" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yokesh-kumar-M&theme=github_dark" />
+      </picture>
+    </td>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yokesh-kumar-M&theme=github_dark&utcOffset=5.5" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yokesh-kumar-M&theme=default&utcOffset=5.5" />
+        <img width="100%" alt="Commit time distribution (IST)" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yokesh-kumar-M&theme=github_dark&utcOffset=5.5" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ---
 
